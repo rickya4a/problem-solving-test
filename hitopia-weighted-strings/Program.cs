@@ -1,6 +1,4 @@
-﻿namespace hitopia_problem_test;
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 class WeightedStrings(string inputString, string inputQuery)
